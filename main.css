@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.button{
+    color: #7c1313;
+    background-color: white;
+    padding: 7px 10px;
+    margin: 7px 10px 7px 10px;
+    border: solid 1px #7c1313;
+    transition: 0.5s;
+}
+.button:hover{
+    color: white;
+    background-color: #7c1313;
+
+}
