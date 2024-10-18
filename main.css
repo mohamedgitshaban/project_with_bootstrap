@@ -8,19 +8,46 @@
     padding: 7px 10px;
     margin: 7px 10px 7px 10px;
     border: solid 1px #7c1313;
-    border-radius: 10px;
     transition: 0.5s;
+    border-radius: 10px;
 }
 .button:hover{
     color: white;
     background-color: #7c1313;
 
 }
-.gg{
-    background-color: red;
+.hh{
+    border-radius: 20px;
 }
 .card-title{
     color: #7c1313;
-    font-size: 30px;
 }
-/* .slider_image */
+.slider_image{
+    height: 600px;
+}
+.nav-link{
+    color: #7c1313;
+}
+.nav-link:hover{
+    color: #b300ff;
+}
+.navbar{
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+}
+.about_background{
+    background-image: url("./images/lockscreen-bg.0d7ef366.jpg");
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.about_section{
+    /* padding-top: 100px; */
+    /* padding-bottom: 100px; */
+    padding: 100px 0px;
+    background-color: #f4f4f4;
+}
+.dd{
+    margin: 100px auto;
+}
