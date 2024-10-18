@@ -8,6 +8,7 @@
     padding: 7px 10px;
     margin: 7px 10px 7px 10px;
     border: solid 1px #7c1313;
+    border-radius: 10px;
     transition: 0.5s;
 }
 .button:hover{
@@ -15,3 +16,11 @@
     background-color: #7c1313;
 
 }
+.gg{
+    background-color: red;
+}
+.card-title{
+    color: #7c1313;
+    font-size: 30px;
+}
+/* .slider_image */
